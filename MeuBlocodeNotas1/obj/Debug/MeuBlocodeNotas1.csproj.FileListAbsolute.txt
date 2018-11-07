@@ -1,0 +1,10 @@
+C:\Users\aryane\source\repos\MeuBlocodeNotas1\MeuBlocodeNotas1\bin\Debug\MeuBlocodeNotas1.exe.config
+C:\Users\aryane\source\repos\MeuBlocodeNotas1\MeuBlocodeNotas1\bin\Debug\MeuBlocodeNotas1.exe
+C:\Users\aryane\source\repos\MeuBlocodeNotas1\MeuBlocodeNotas1\bin\Debug\MeuBlocodeNotas1.pdb
+C:\Users\aryane\source\repos\MeuBlocodeNotas1\MeuBlocodeNotas1\obj\Debug\MeuBlocodeNotas1.csprojAssemblyReference.cache
+C:\Users\aryane\source\repos\MeuBlocodeNotas1\MeuBlocodeNotas1\obj\Debug\MeuBlocodeNotas1.Form1.resources
+C:\Users\aryane\source\repos\MeuBlocodeNotas1\MeuBlocodeNotas1\obj\Debug\MeuBlocodeNotas1.Properties.Resources.resources
+C:\Users\aryane\source\repos\MeuBlocodeNotas1\MeuBlocodeNotas1\obj\Debug\MeuBlocodeNotas1.csproj.GenerateResource.cache
+C:\Users\aryane\source\repos\MeuBlocodeNotas1\MeuBlocodeNotas1\obj\Debug\MeuBlocodeNotas1.csproj.CoreCompileInputs.cache
+C:\Users\aryane\source\repos\MeuBlocodeNotas1\MeuBlocodeNotas1\obj\Debug\MeuBlocodeNotas1.exe
+C:\Users\aryane\source\repos\MeuBlocodeNotas1\MeuBlocodeNotas1\obj\Debug\MeuBlocodeNotas1.pdb
